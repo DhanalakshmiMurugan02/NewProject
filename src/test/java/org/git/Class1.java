@@ -19,4 +19,13 @@ System.out.println("paksitani");
 private void china() {
 System.out.println("chinese");
 }
+private void tamilNadu() {
+System.out.println("4");
+}
+private void kerala() {
+System.out.println("5");
+}
+private void banglore() {
+System.out.println("6");
+}
 }
